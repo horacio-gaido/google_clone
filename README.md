@@ -32,7 +32,7 @@ This project was built using the following technologies:
 
 To use this Google clone, follow these steps:
 
-1. Clone the repository using ``
+1. Clone the repository using 'https://github.com/horacio-gaido/google_clone.git'
 2. Open `index.html` in your web browser
 
 
